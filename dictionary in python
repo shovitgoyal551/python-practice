@@ -1,0 +1,17 @@
+info = {
+    "name" : "shovit goyal",
+    "course" : "b.tech",
+    "subjects" : {
+        "engg. math" : 46,
+        "engg.chem" : 85,
+        "electronics" : 86,
+        "softskills" : 65,
+    }
+}
+
+
+
+info.update{{"city" : "agra"}}
+
+print(info)
+      
