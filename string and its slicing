@@ -1,0 +1,11 @@
+str = "shovit goyal"
+ch = str[5]
+print(ch)
+
+new1= str[1:9]
+new2 = str[0:]
+new3 = str[:9]
+
+print(new1)
+print(new2)
+print(new3)
